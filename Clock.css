@@ -1,0 +1,35 @@
+body{
+    background-size: cover;
+    
+}
+
+.heading{
+    width: 20%;
+    font-size: large;
+    margin-top: 20px;
+    box-shadow: 10px 10px 27px rgb(89, 173, 252);
+}
+
+.heading:hover{
+    width: 20%;
+    font-size: large;
+    margin-top: 20px;
+    background-color: rgb(89, 173, 252);
+    box-shadow: 10px 10px 27px rgb(255, 79, 79);
+}
+
+.back{
+    float: right;
+    color: aliceblue;
+    background-color: black;
+    border-radius: 20px;
+    margin-right: 10px;
+    width: 50px;
+    height: 25px;
+}
+
+canvas
+{
+    border-radius: 20px;
+    border: aqua;
+}

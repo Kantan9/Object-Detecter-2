@@ -1,0 +1,35 @@
+body{
+    background-size: cover;
+    
+}
+
+.heading{
+    width: 20%;
+    font-size: large;
+    margin-top: 20px;
+    box-shadow: 10px 10px 27px rgb(89, 173, 252);
+}
+
+.heading:hover{
+    width: 20%;
+    font-size: large;
+    margin-top: 20px;
+    background-color: rgb(89, 173, 252);
+    box-shadow: 10px 10px 27px rgb(255, 79, 79);
+}
+
+.object{
+    font-size: 20px;
+    border-radius: 20px;
+    width: 300px;
+    background-color: aliceblue;
+    margin-bottom: 20px;
+    border: white;
+}
+
+.object:hover{
+    font-size: 25px;
+    border-radius: 20px;
+    width: 300px;
+    background-color: aliceblue; 
+}
